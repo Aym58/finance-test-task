@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[` 1`] = `
+<div
+  className="loader-container"
+>
+  <span
+    className="loader"
+  />
+</div>
+`;
+
+exports[`should connect to socket 1`] = `ReactWrapper {}`;
+
+exports[`should select null after timing out 1`] = `ReactWrapper {}`;
